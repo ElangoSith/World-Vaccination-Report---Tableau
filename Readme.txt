@@ -7,4 +7,4 @@ over a Country's GDP and comparison of people partially vaccinated vs people ful
 The dashboard also contains stats to indicate people partially vaccinated, people fully vaccinated and people not vaccinated on top of the dashboard. Every sheet can be
 filtered by Country or Continent.
 
-Guide: To view the dashhboard, go to the link in Link to Tableau Dashboard text file or download Tableau workbook directly.
+Guide: To view the dashboard, go to the link in Link to Tableau Dashboard text file or download Tableau workbook directly.
